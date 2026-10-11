@@ -17,6 +17,6 @@ Computer Science graduate and educator with over five years of teaching experien
 - B.Sc. (Honours) in Computer Science, Kalyani University, 2022–2025
 
 ## 🔗 Connect
-- LinkedIn: [[your LinkedIn URL]](https://www.linkedin.com/in/ayan-mandal-254665279/)
+- LinkedIn: [Ayan Mandal](https://www.linkedin.com/in/ayan-mandal-254665279/)
 - Institute: [www.ganitasastram.com](https://www.ganitasastram.com)
 - CV: [link once it's shared online]

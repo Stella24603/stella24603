@@ -3,13 +3,13 @@
 Computer Science graduate and educator with over five years of teaching experience. Currently building skills in data science and software development.
 
 ## 🔧 What I work with
-- **Languages:** Python, C, SQL, [JavaScript, confirm]
-- **Data:** Statistics, [Pandas / NumPy, confirm]
-- **Web:** React, Firebase, [Git, confirm]
+- **Languages:** Python, C, C++, JAVA, SQL, JavaScript
+- **Data:** Statistics, Pandas, NumPy
+- **Web:** React, Firebase, Git
 
 ## 🚀 Featured projects
 - **Classroom Management Web App**: React and Firebase app for managing batches, students, attendance, tests, and fees.
-  [Link to repo, if public; otherwise remove this line]
+  
 - **Student Learning App** (in progress): notes, practice quizzes, and progress tracking.
 
 ## 🎓 Education
@@ -17,6 +17,6 @@ Computer Science graduate and educator with over five years of teaching experien
 - B.Sc. (Honours) in Computer Science, Kalyani University, 2022–2025
 
 ## 🔗 Connect
-- LinkedIn: [your LinkedIn URL]
+- LinkedIn: [[your LinkedIn URL]](https://www.linkedin.com/in/ayan-mandal-254665279/)
 - Institute: [www.ganitasastram.com](https://www.ganitasastram.com)
 - CV: [link once it's shared online]
